@@ -1,5 +1,7 @@
 # Vercel Electerm sync server
 
+[English](README.md) | [中文](README_CN.md)
+
 A simple electerm data sync server for Vercel, written with nodejs/ts, data stored in [[cloud.mongodb.com](https://cloud.mongodb.com/)](free tier is enough).
 
 ## Use
